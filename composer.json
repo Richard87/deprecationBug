@@ -19,12 +19,6 @@
         "twig/extra-bundle": "^2.12|^3.0",
         "twig/twig": "^2.12|^3.0"
     },
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/APY/APYBreadcrumbTrailBundle.git",
-            "reference": "f7d04dee24e476fd9943bf7988018c0633aeb91e"
-        }],
     "config": {
         "optimize-autoloader": true,
         "preferred-install": {
